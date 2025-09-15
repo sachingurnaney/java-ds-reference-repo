@@ -25,3 +25,6 @@ This repository contains Java implementations of core data structures with JUnit
 
 ## 📜 License
 MIT License © 2025 Sachin
+=======
+# java-ds-reference-repo
+A GitHub-ready collection of clean and well-structured Java implementations of fundamental data structures (Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting Algorithms, etc.), complete with JUnit tests and Gradle setup.
